@@ -6,4 +6,5 @@ FORWARD/BACKWARD gives information about which direction the motor will turn.
 In order for the 2 engines to work sequentially with each other, their times were adjusted with the delay() function.
 In our project, the first engine started working for 3 seconds and after a 2 second break, the second engine started to start again.
 Then we want the 1st engine to run again.
-That's why the delay() function is adjusted for this loop
+That's why the delay() function is adjusted for this loop.
+The code written with control.py is made to work with raspberry pi.
